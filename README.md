@@ -1,4 +1,4 @@
-# Grid Challenge
+# Grid Challenge Solution
 
 Platform: HackerRank
 
